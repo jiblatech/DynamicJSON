@@ -1,0 +1,11 @@
+{
+  "": {
+    "swift-dependencies": "/Users/ab/tutorials/DynamicJSON/.build/x86_64-apple-macosx/debug/DynamicJSON.build/master.swiftdeps"
+  },
+  "/Users/ab/tutorials/DynamicJSON/Sources/DynamicJSON.swift": {
+    "dependencies": "/Users/ab/tutorials/DynamicJSON/.build/x86_64-apple-macosx/debug/DynamicJSON.build/DynamicJSON.d",
+    "object": "/Users/ab/tutorials/DynamicJSON/.build/x86_64-apple-macosx/debug/DynamicJSON.build/DynamicJSON.swift.o",
+    "swiftmodule": "/Users/ab/tutorials/DynamicJSON/.build/x86_64-apple-macosx/debug/DynamicJSON.build/DynamicJSON~partial.swiftmodule",
+    "swift-dependencies": "/Users/ab/tutorials/DynamicJSON/.build/x86_64-apple-macosx/debug/DynamicJSON.build/DynamicJSON.swiftdeps"
+  }
+}

@@ -1,0 +1,5 @@
+version: "Apple Swift version 5.0 (swiftlang-1001.0.69.5 clang-1001.0.46.3)"
+options: "3df3c753209137f16b9cca1d05e4e007"
+build_time: [1555404929, 417012000]
+inputs:
+  "/Users/ab/tutorials/DynamicJSON/Sources/DynamicJSON.swift": [1555404679, 246210942]
